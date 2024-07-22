@@ -32,17 +32,17 @@ Several models were trained and evaluated to determine the best performing model
 
 The performance of the models was evaluated using metrics such as accuracy, F1 score, and confusion matrix:
 
-- **Logistic Regression**:
-  - Accuracy: 85%
-  - F1 Score: 0.84
+- **Logistic Regression with Bert**:
+  - Accuracy: 76%
+  - F1 Score: 0.76
 
-- **Random Forest Classifier**:
-  - Accuracy: 88%
-  - F1 Score: 0.87
+- **Random Forest Classifier with Bert**:
+  - Accuracy: 72%
+  - F1 Score: 0.68
 
 - **Transformers Model**:
-  - Accuracy: 92%
-  - F1 Score: 0.91
+  - Accuracy: 83%
+  - F1 Score: 0.83
 
 The transformer model from Hugging Face achieved the best performance with an accuracy of 92% and an F1 score of 0.91.
 
